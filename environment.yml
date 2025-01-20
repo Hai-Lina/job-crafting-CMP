@@ -1,4 +1,4 @@
-name: base
+name: job-crafting-CMP
 channels:
   - defaults
 dependencies:
